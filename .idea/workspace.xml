@@ -4,52 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e56c6d-19ce-4b31-b184-42cf86948393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadPhrase.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/alphabetCheck/AlphabetRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/Bibim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/ChRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/GunsanRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/Ramen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/SeoulRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex1/Zzapagetti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pizza/CommonUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pizza/CreateUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pizza/ReadUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pizza/TotalUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz/EventQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz/OXQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz/QuizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz2/MQuizVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz2/QuizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz2/QuizUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz2/QuizVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/quiz2/SQuizVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/salary/CalcSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/salary/Freelancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/salary/PartTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/EnglishMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/FranchMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/GermanMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/KoreanMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/Msg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/vend/VendingMachine.java" afterDir="false" />
+    <list default="true" id="51e56c6d-19ce-4b31-b184-42cf86948393" name="Changes" comment="Commit - AlphabetChecker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,11 +81,24 @@
       <option name="presentableId" value="Default" />
       <updated>1721092906558</updated>
       <workItem from="1721092907691" duration="2728000" />
-      <workItem from="1721104390834" duration="14513000" />
+      <workItem from="1721104390834" duration="14559000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit - AlphabetChecker">
+      <option name="closed" value="true" />
+      <created>1721119907412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721119907412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit - AlphabetChecker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - AlphabetChecker" />
   </component>
 </project>
